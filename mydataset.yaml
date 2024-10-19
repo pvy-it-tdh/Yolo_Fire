@@ -1,0 +1,6 @@
+path: D:\Python\YoloV8\dataset
+train: images/train
+val: images/val
+
+names:
+  0: fire
